@@ -12,12 +12,14 @@ let cartas =  [
         atributo: "Vento",
         status: "ATK:3000/DEF:2500",
         link: "https://yugipedia-com.translate.goog/wiki/Crystal_Wing_Synchro_Dragon?_x_tr_sl=ja&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc" 
+    },
     {
         titulo: "Dragão Sincro de Asas Transparentes Cristalinas",
         descricao: "uma evolução do Dragão Sincro de Asas Transparentes, com um poder ainda maior e habilidades únicas agora até mesmo feitiços podem ser obliterados por esse monstro.",
         atributo: "Vento",
         status: "ATK:3000/DEF:2500",
         link: "https://yugipedia-com.translate.goog/wiki/Crystal_Clear_Wing_Synchro_Dragon?_x_tr_sl=ja&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc" 
+    },
     {
         titulo: "Mago de Asa Branca",
         descricao: "Um mago habilidoso com o poder de invocar criaturas aladas.",
@@ -31,6 +33,7 @@ let cartas =  [
         atributo: "Escuridão",
         status: "ATK:3000/DEF:2500",
         link: "https://yugipedia-com.translate.goog/wiki/Odd-Eyes_Wing_Dragon?_x_tr_sl=ja&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc" 
+    },
     {
         titulo: "Rei Supremo Dragão de Asas Transparentes",
         descricao: "Uma forma evoluída do Dragão Sincro de Asas Transparentes, com um poder ainda maior, porém muito mais vólatil.",
